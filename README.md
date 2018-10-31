@@ -1,4 +1,4 @@
-$1jst
+//this is explain for this file
 .test dev brance
 
 //test branch dev1
