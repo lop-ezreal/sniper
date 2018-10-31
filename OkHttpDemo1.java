@@ -45,6 +45,7 @@ public class OkHttpDemo1 {
             while ((n = fis.read(b)) != -1) {
                 bos.write(b, 0, n);
             }
+	    //close stream.
             fis.close();
             bos.close();
             buffer = bos.toByteArray();
