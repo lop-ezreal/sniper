@@ -3,5 +3,5 @@ $1jst
 
 //test branch dev1
 
-creat3e1 master
+create a new brance is quick AND simple
 # sniper
